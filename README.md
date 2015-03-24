@@ -1,7 +1,7 @@
 # Mailcatcher Docker
 
 This repo is a simple docker example that runs 'mailcatcher'.
-It's based on official 'ruby' image.
+It's based on official 'ruby' image: https://registry.hub.docker.com/_/ruby/
 
 Look inside & run:
 
